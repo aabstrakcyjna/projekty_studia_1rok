@@ -1,0 +1,15 @@
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\bin\Debug\net7.0\Złożoność_obliczeniowa.exe
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\bin\Debug\net7.0\Złożoność_obliczeniowa.deps.json
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\bin\Debug\net7.0\Złożoność_obliczeniowa.runtimeconfig.json
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\bin\Debug\net7.0\Złożoność_obliczeniowa.dll
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\bin\Debug\net7.0\Złożoność_obliczeniowa.pdb
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.AssemblyInfoInputs.cache
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.AssemblyInfo.cs
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.dll
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\refint\Złożoność_obliczeniowa.dll
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.pdb
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\Złożoność_obliczeniowa.genruntimeconfig.cache
+C:\Users\Beata\source\repos\Złożoność_obliczeniowa\Złożoność_obliczeniowa\obj\Debug\net7.0\ref\Złożoność_obliczeniowa.dll

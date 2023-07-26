@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\bin\Debug\Multiplicity.exe.config
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\bin\Debug\Multiplicity.exe
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\bin\Debug\Multiplicity.pdb
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\obj\Debug\Multiplicity.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\obj\Debug\Multiplicity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\obj\Debug\Multiplicity.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\obj\Debug\Multiplicity.exe
+C:\Users\Beata\source\repos\Multiplicity\Multiplicity\obj\Debug\Multiplicity.pdb

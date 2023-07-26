@@ -1,0 +1,16 @@
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.exe.config
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.exe
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.pdb
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.exe
+C:\Users\Beata\source\repos\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.pdb
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.exe.config
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.exe
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\bin\Debug\Równanie_Kwadratowe.pdb
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.exe
+C:\Users\Beata\source\repos\Projekty studia pierwszy rok\Równanie_Kwadratowe\Równanie_Kwadratowe\obj\Debug\Równanie_Kwadratowe.pdb

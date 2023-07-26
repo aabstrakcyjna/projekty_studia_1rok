@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\bin\Debug\Wartość bezwzględna z liczby.exe.config
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\bin\Debug\Wartość bezwzględna z liczby.exe
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\bin\Debug\Wartość bezwzględna z liczby.pdb
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\obj\Debug\Wartość bezwzględna z liczby.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\obj\Debug\Wartość bezwzględna z liczby.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\obj\Debug\Wartość bezwzględna z liczby.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\obj\Debug\Wartość bezwzględna z liczby.exe
+C:\Users\Beata\source\repos\Wartość bezwzględna z liczby\Wartość bezwzględna z liczby\obj\Debug\Wartość bezwzględna z liczby.pdb

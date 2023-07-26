@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Złożoność\Złożoność\bin\Debug\Złożoność.exe.config
+C:\Users\Beata\source\repos\Złożoność\Złożoność\bin\Debug\Złożoność.exe
+C:\Users\Beata\source\repos\Złożoność\Złożoność\bin\Debug\Złożoność.pdb
+C:\Users\Beata\source\repos\Złożoność\Złożoność\obj\Debug\Złożoność.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Złożoność\Złożoność\obj\Debug\Złożoność.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Złożoność\Złożoność\obj\Debug\Złożoność.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Złożoność\Złożoność\obj\Debug\Złożoność.exe
+C:\Users\Beata\source\repos\Złożoność\Złożoność\obj\Debug\Złożoność.pdb

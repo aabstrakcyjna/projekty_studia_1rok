@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\bin\Debug\Potęgowanie bez rekurencji.exe.config
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\bin\Debug\Potęgowanie bez rekurencji.exe
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\bin\Debug\Potęgowanie bez rekurencji.pdb
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\obj\Debug\Potęgowanie bez rekurencji.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\obj\Debug\Potęgowanie bez rekurencji.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\obj\Debug\Potęgowanie bez rekurencji.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\obj\Debug\Potęgowanie bez rekurencji.exe
+C:\Users\Beata\source\repos\Potęgowanie bez rekurencji\Potęgowanie bez rekurencji\obj\Debug\Potęgowanie bez rekurencji.pdb

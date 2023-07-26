@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\bin\Debug\Czy da się zbudować trójkąt.exe.config
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\bin\Debug\Czy da się zbudować trójkąt.exe
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\bin\Debug\Czy da się zbudować trójkąt.pdb
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\obj\Debug\Czy da się zbudować trójkąt.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\obj\Debug\Czy da się zbudować trójkąt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\obj\Debug\Czy da się zbudować trójkąt.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\obj\Debug\Czy da się zbudować trójkąt.exe
+C:\Users\Beata\source\repos\Czy da się zbudować trójkąt\Czy da się zbudować trójkąt\obj\Debug\Czy da się zbudować trójkąt.pdb

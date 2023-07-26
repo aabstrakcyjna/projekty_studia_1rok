@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\tablice\tablice\bin\Debug\tablice.exe.config
+C:\Users\Beata\source\repos\tablice\tablice\bin\Debug\tablice.exe
+C:\Users\Beata\source\repos\tablice\tablice\bin\Debug\tablice.pdb
+C:\Users\Beata\source\repos\tablice\tablice\obj\Debug\tablice.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\tablice\tablice\obj\Debug\tablice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\tablice\tablice\obj\Debug\tablice.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\tablice\tablice\obj\Debug\tablice.exe
+C:\Users\Beata\source\repos\tablice\tablice\obj\Debug\tablice.pdb

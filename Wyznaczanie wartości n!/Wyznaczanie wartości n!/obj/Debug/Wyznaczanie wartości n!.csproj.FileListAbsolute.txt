@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\bin\Debug\Wyznaczanie wartości n!.exe.config
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\bin\Debug\Wyznaczanie wartości n!.exe
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\bin\Debug\Wyznaczanie wartości n!.pdb
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\obj\Debug\Wyznaczanie wartości n!.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\obj\Debug\Wyznaczanie wartości n!.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\obj\Debug\Wyznaczanie wartości n!.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\obj\Debug\Wyznaczanie wartości n!.exe
+C:\Users\Beata\source\repos\Wyznaczanie wartości n!\Wyznaczanie wartości n!\obj\Debug\Wyznaczanie wartości n!.pdb

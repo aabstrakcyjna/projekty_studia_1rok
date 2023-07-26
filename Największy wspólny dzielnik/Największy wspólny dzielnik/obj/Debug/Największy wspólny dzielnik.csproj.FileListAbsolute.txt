@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\bin\Debug\Największy wspólny dzielnik.exe.config
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\bin\Debug\Największy wspólny dzielnik.exe
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\bin\Debug\Największy wspólny dzielnik.pdb
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\obj\Debug\Największy wspólny dzielnik.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\obj\Debug\Największy wspólny dzielnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\obj\Debug\Największy wspólny dzielnik.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\obj\Debug\Największy wspólny dzielnik.exe
+C:\Users\Beata\source\repos\Największy wspólny dzielnik\Największy wspólny dzielnik\obj\Debug\Największy wspólny dzielnik.pdb

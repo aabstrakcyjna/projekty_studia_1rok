@@ -1,0 +1,3 @@
+﻿  Zgadywanie liczby.cpp
+C:\Users\Beata\source\repos\Zgadywanie liczby\Zgadywanie liczby\Zgadywanie liczby.cpp(22,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zgadywanie liczby.vcxproj -> C:\Users\Beata\source\repos\Zgadywanie liczby\x64\Debug\Zgadywanie liczby.exe

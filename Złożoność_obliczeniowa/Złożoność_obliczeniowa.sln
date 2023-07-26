@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Złożoność_obliczeniowa", "Złożoność_obliczeniowa\Złożoność_obliczeniowa.csproj", "{225A0585-C89C-43FE-961E-9CBB8EDD542E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225A0585-C89C-43FE-961E-9CBB8EDD542E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225A0585-C89C-43FE-961E-9CBB8EDD542E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225A0585-C89C-43FE-961E-9CBB8EDD542E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225A0585-C89C-43FE-961E-9CBB8EDD542E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7BE283-EFB5-41B5-8512-F667BDBAB33F}
+	EndGlobalSection
+EndGlobal

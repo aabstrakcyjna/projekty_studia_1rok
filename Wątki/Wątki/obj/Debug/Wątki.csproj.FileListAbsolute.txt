@@ -1,0 +1,8 @@
+C:\Users\Beata\source\repos\Wątki\Wątki\bin\Debug\Wątki.exe.config
+C:\Users\Beata\source\repos\Wątki\Wątki\bin\Debug\Wątki.exe
+C:\Users\Beata\source\repos\Wątki\Wątki\bin\Debug\Wątki.pdb
+C:\Users\Beata\source\repos\Wątki\Wątki\obj\Debug\Wątki.csproj.AssemblyReference.cache
+C:\Users\Beata\source\repos\Wątki\Wątki\obj\Debug\Wątki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beata\source\repos\Wątki\Wątki\obj\Debug\Wątki.csproj.CoreCompileInputs.cache
+C:\Users\Beata\source\repos\Wątki\Wątki\obj\Debug\Wątki.exe
+C:\Users\Beata\source\repos\Wątki\Wątki\obj\Debug\Wątki.pdb
